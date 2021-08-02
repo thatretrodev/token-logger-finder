@@ -1,2 +1,2 @@
 # token-logger-finder
-A tool to find token loggers automatically.
+A tool for finding token loggers automatically.
