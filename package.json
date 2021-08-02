@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thatretrodev/token-logger-finder/issues"
   },
-  "homepage": "https://github.com/thatretrodev/token-logger-finder#readme"
+  "homepage": "https://github.com/thatretrodev/token-logger-finder#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
 }
